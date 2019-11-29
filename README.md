@@ -1,6 +1,7 @@
 # ToolsSeminar's Assignments Repository
 
 This is a repository for weekly seminar assignments.
+
 Here are the topic of each week.
 
 | Week | Topic | Assignments | File |
