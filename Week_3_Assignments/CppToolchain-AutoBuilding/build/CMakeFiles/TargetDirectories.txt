@@ -1,0 +1,3 @@
+/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/build/CMakeFiles/display.dir
+/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/build/CMakeFiles/edit_cache.dir

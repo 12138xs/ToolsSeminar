@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/mesh.h
+vector
+-
+cstdio
+-
+string
+-
+cstring
+-
+GL/glut.h
+-
+vec3.h
+-
+
+../include/vec3.h
+
+/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/display.cpp
+cmath
+-
+mesh.h
+-
+
+/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/mesh.cpp
+mesh.h
+-
+
