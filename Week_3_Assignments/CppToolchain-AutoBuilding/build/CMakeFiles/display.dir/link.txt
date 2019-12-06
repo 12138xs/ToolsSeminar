@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/display.dir/display.cpp.o CMakeFiles/display.dir/mesh.cpp.o  -o display  -L/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/lib -Wl,-rpath,/mnt/c/Git/Git_ToolsSeminar/Assignments/CppToolchain-AutoBuilding/lib -Wl,-Bstatic -lstest -lstest -Wl,-Bdynamic -lGL -lglut -lGLU 
