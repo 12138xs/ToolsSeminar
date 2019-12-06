@@ -4,15 +4,15 @@ This is a repository for weekly seminar assignments.
 
 Here are the topic of each week.
 
-| Week | Topic | Assignments | File |
-|:-:|:-:|:-:|:-:|
-| 1 | Basic Configuration | Regex:Username | Assignment_Week_1.txt |
-| 2 | Markup languages & Scientific Literature | README, .bib, summary | README.md, Assignment_Week_2.bib, Summary.md |
-| 3 | C/C++ Compile & Runtime Toolchain | |
-| 4 | LaTeX configuration & usage | |
-| 5 | Python & standard library | |
-| 6 | Scientific Computing | |
-| 7 | Machine Learning | |
-| 8 | Deep Learning | |
-| 9 | Visualization | |
-| 10| Parallel Computing | |
+| Week | Topic | Assignments |
+|:-:|:-:|:-:|
+| Week_1 | Basic Configuration | Regex:Username |
+| Week_2 | Markup languages & Scientific Literature | .bib & Summary.md |
+| Week_3 | C/C++ Compile & Runtime Toolchain | Debugging & Auto-building |
+| Week_4 | LaTeX configuration & usage | |
+| Week_5 | Python & standard library | |
+| Week_6 | Scientific Computing | |
+| Week_7 | Machine Learning | |
+| Week_8 | Deep Learning | |
+| Week_9 | Visualization | |
+| Week_10| Parallel Computing | |
