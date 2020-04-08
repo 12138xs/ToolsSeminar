@@ -1,8 +1,8 @@
-# ToolsSeminar's Assignments Repository
+# Assignments of ToolsSeminar
 
-This is a repository for weekly seminar assignments.
+This is a repository for saving the assignments of ToolsSeminar.
 
-Here are the topic of each week.
+Here are the topic and file of each week.
 
 | Week | Topic | Assignments |
 |:-:|:-:|:-:|
@@ -11,7 +11,7 @@ Here are the topic of each week.
 | Week_3 | C/C++ Compile & Runtime Toolchain | Debugging & Auto-building |
 | Week_4 | LaTeX configuration & usage | Latex |
 | Week_5 | Python & standard library | |
-| Week_6 | Scientific Computing | .np |
+| Week_6 | Scientific Computing | main.ipynb |
 | Week_7 | Machine Learning | |
 | Week_8 | Deep Learning | |
 | Week_9 | Visualization | |
