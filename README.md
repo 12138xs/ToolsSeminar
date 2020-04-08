@@ -12,7 +12,7 @@ Here are the topic and file of each week.
 | Week_4 | LaTeX configuration & usage | Latex |
 | Week_5 | Python & standard library | |
 | Week_6 | Scientific Computing | main.ipynb |
-| Week_7 | Machine Learning | |
+| Week_7 | Machine Learning | ML assignment.ipynb |
 | Week_8 | Deep Learning | |
 | Week_9 | Visualization | |
 | Week_10| Parallel Computing | |
